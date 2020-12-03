@@ -29,7 +29,7 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 /vendor/*
 
 # application/third_party/mpdf/*
- application/config/database.php
- application/controllers/Api.php
- application/config/config.php
+ **/application/config/database.php
+ **/application/controllers/Api.php
+ **/application/config/config.php
  
