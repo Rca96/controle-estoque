@@ -26,8 +26,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 */
 
 $config['base_url'] = 'http://localhost/controle-estoque/';
-//107 - $config['base_url'] = 'http://aplicativos.pma.sp.gov.br:3476/controle-estoque/';
-//$config['base_url'] = 'http://aplicativos.pma.sp.gov.br/controle-estoque/';
+
 
 /*
 |--------------------------------------------------------------------------
